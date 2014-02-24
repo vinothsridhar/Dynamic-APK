@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.sri.apk2web.Apk2Web { <init>(...); }
+
